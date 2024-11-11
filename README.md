@@ -1,0 +1,2 @@
+**Excel Parser and Data Normalizer for Large, Inconsistent Datasets**  
+A powerful tool for parsing and normalizing large collections of Excel files with varying sheet counts, formats, and column data types. This repository automatically corrects file extensions, detects and applies accurate data types, and consolidates all data into a single, clean, tabular format suitable for analysis—capable of handling millions of rows efficiently. Perfect for transforming complex Excel datasets into usable, structured tables.
