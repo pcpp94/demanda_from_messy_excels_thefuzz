@@ -1,0 +1,12 @@
+cloudpickle
+pyarrow
+numpy
+pytz
+openpyxl
+bottleneck
+defusedxml
+six
+numexpr
+pandas
+lxml
+cffi
